@@ -1,4 +1,4 @@
-# 🐍 Python Developer 🚀
+# 🐍 Python Developer 
 
 Este repositório contém desafios e exercícios desenvolvidos durante o curso de Python Developer.
 
@@ -6,10 +6,11 @@ Este repositório contém desafios e exercícios desenvolvidos durante o curso d
 
 - 📌 **Anotações/Coleções**: Exemplos e exercícios relacionados a coleções em Python, como listas, tuplas, dicionários e conjuntos.
 - 🏦 **Sistema Bancário**: Implementação de um sistema bancário simples para praticar conceitos de programação orientada a objetos e manipulação de dados.
+- 🗳️ **Desafio da Urna**: Implementação de um sistema de urna eletrônica para simular a votação de candidatos, com funcionalidades para registrar votos, calcular resultados e mais.
 
 ## 🏦 Desafio: Sistema Bancário
 
-Este repositório contém um desafio de criação de um **Sistema Bancário** em Python. O sistema permite ao usuário realizar operações básicas de um banco, como:
+Este repositório contém um desafio de criação de um **Sistema Bancário** em Python proposto pelo [PedroFnseca](https://github.com/PedroFnseca). O sistema permite ao usuário realizar operações básicas de um banco, como:
 
 - 📥 **Depósito**: Adicionar saldo à conta.  
 - 💸 **Saque**: Realizar retiradas com um limite de valor e quantidade diária.  
@@ -35,6 +36,31 @@ Experimente fazer depósitos, saques e consultar o extrato para testar o funcion
 
 Se quiser aprimorar o sistema, contribua com melhorias e novas funcionalidades! 😊
 
+---
+
+## 🗳️ Desafio: Urna Eletrônica
+
+Este desafio consiste em criar um sistema simples de **urna eletrônica** para simular uma votação. O sistema deve permitir que o usuário registre votos para diferentes candidatos e calcule os resultados ao final.
+
+### ⚙️ Funcionalidades
+
+- **Votação**: O usuário pode votar em candidatos.
+- **Contagem de votos**: O sistema deve contar os votos de forma automática.
+- **Resultado**: Exibir o total de votos por candidato ao final da votação.
+- **Reiniciar votação**: Permitir reiniciar a votação a qualquer momento.
+
+### ▶️ Como Executar
+
+Para rodar o sistema de votação, basta executar o script `urna_eletronica.py`:
+
+```bash
+python urna_eletronica.py
+```
+
+Experimente registrar votos, ver o total de votos e verificar o vencedor da eleição! 🚀
+
+---
+
 ## ⚙️ Como utilizar
 
 1. ⬇️ Clone o repositório para sua máquina local:
@@ -58,7 +84,3 @@ Se quiser aprimorar o sistema, contribua com melhorias e novas funcionalidades! 
 ## 🛠️ Pré-requisitos
 
 - 🐍 Python 3.x instalado. Você pode baixá-lo em: [python.org](https://www.python.org/downloads/)
-
-## 🤝 Contribuições
-
-💡 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
