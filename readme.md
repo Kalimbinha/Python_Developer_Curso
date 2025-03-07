@@ -5,7 +5,7 @@ Este repositório contém desafios e exercícios desenvolvidos durante o curso d
 ## 📂 Conteúdo
 
 - 🏦 [**Sistema Bancário**](#-desafio-sistema-bancário): Implementação de um sistema bancário simples para praticar conceitos de programação orientada a objetos e manipulação de dados.
-- 🗳️ [**Desafio da Urna**](#-desafio-urna-eletrônica): Implementação de um sistema de urna eletrônica para simular a votação de candidatos, com funcionalidades para registrar votos, calcular resultados e mais.
+- 🗳️ [**Desafio da Urna**](#--desafio-urna-eletrônica): Implementação de um sistema de urna eletrônica para simular a votação de candidatos, com funcionalidades para registrar votos, calcular resultados e mais.
 
 ## 🏦 Desafio: Sistema Bancário
 
