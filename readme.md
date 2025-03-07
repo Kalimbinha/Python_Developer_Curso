@@ -4,9 +4,8 @@ Este repositório contém desafios e exercícios desenvolvidos durante o curso d
 
 ## 📂 Conteúdo
 
-- 📌 [**Anotações/Coleções**](#anotaçõescoleções): Exemplos e exercícios relacionados a coleções em Python, como listas, tuplas, dicionários e conjuntos.
-- 🏦 [**Sistema Bancário**](#desafio:-sistema-bancário): Implementação de um sistema bancário simples para praticar conceitos de programação orientada a objetos e manipulação de dados.
-- 🗳️ [**Desafio da Urna**](#desafio:-urna-eletrônica): Implementação de um sistema de urna eletrônica para simular a votação de candidatos, com funcionalidades para registrar votos, calcular resultados e mais.
+- 🏦 [**Sistema Bancário**](#desafio-sistema-bancário): Implementação de um sistema bancário simples para praticar conceitos de programação orientada a objetos e manipulação de dados.
+- 🗳️ [**Desafio da Urna**](#desafio-urna-eletrônica): Implementação de um sistema de urna eletrônica para simular a votação de candidatos, com funcionalidades para registrar votos, calcular resultados e mais.
 
 ## 🏦 Desafio: Sistema Bancário
 
@@ -72,7 +71,7 @@ Experimente registrar votos, ver o total de votos e verificar o vencedor da elei
 2. 📁 Navegue até o diretório desejado:
 
    ```bash
-   cd Python_Developer_Curso/Anotações/Coleções
+   cd Python_Developer_Curso
    ```
 
 3. ▶️ Execute os scripts Python conforme necessário:
@@ -88,5 +87,3 @@ Experimente registrar votos, ver o total de votos e verificar o vencedor da elei
 ## 🤝 Contribuições
 
 💡 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
----
