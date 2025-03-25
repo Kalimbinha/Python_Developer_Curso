@@ -17,6 +17,7 @@ def exibir_menu():
     ==========================
     => """
 
+
 def criar_usuario():
     cpf = input("Informe o CPF (somente números): ").strip()
     usuario_existente = next((user for user in usuarios if user["cpf"] == cpf), None)
